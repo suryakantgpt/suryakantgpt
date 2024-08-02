@@ -121,42 +121,42 @@
 <summary><b>⚡ Recent GitHub Activity Graph</b></summary>
   <br>
 	
-[![HannachiHassen's Activity Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=HannachiHassen&theme=react-dark)](https://github.com/HannachiHassen/github-readme-activity-graph)
+[![Suryakantgupta's Activity Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryakantgpt&theme=react-dark)](https://github.com/suryakantgpt/github-readme-activity-graph)
 	
 <summary><b>💻 GitHub Profile Stats</b></summary>  
   <br/> 
  <p align="center"> 
- <a href="https://github.com/HannachiHassen">
-   <img alt="HannachiHassen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HannachiHassen&show_icons=true&count_private=true&theme=radical" height="192px" style="max-width: 100%; width="40%"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HannachiHassen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="HannachiHassen" height="192px style="max-width: 100%; width="40%"/>
+ <a href="https://github.com/suryakantgpt">
+   <img alt="suryakantgpt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryakantgpt&show_icons=true&count_private=true&theme=radical" height="192px" style="max-width: 100%; width="40%"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakantgpt&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical" alt="suryakantgpt" height="192px style="max-width: 100%; width="40%"/>
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </p>
  
  <summary><b>🔥 Streak Stats</b></summary>
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HannachiHassen&theme=radical"  alt="HannachiHassen" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suryakantgpt&theme=radical"  alt="suryakantgpt" /></p>
           
-<a href="https://github.com/HannachiHassen/Framework_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Framework_Project" />
+<a href="https://github.com/suryakantgpt/Framework_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryakantgpt&repo=Framework_Project" />
 </a>
-<a href="https://github.com/HannachiHassen/SQL_BasicTesting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=SQL_BasicTesting" />
+<a href="https://github.com/suryakantgpt/SQL_BasicTesting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryakantgpt&repo=SQL_BasicTesting" />
 </a> 
-<a href="https://github.com/HannachiHassen/ExtentReport-Cucumber-Adapter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=ExtentReport-Cucumber-Adapter" />
+<a href="https://github.com/suryakantgpt/ExtentReport-Cucumber-Adapter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryakantgpt&repo=ExtentReport-Cucumber-Adapter" />
 </a>
-<a href="https://github.com/HannachiHassen/Cucumber-JUnit-BDD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HannachiHassen&repo=Cucumber-JUnit-BDD" />
+<a href="https://github.com/suryakantgpt/Cucumber-JUnit-BDD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=suryakantgpt&repo=Cucumber-JUnit-BDD" />
 </a>     
 
-<!-- [![Hassen's github trophy](https://github-profile-trophy.vercel.app/?username=HannachiHassen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Surya's github trophy](https://github-profile-trophy.vercel.app/?username=suryakantgpt&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on Java and looking for opportunity to work with like minded people.
 - 🌱 I’m currently learning Java, Selenium Cypress, Playwrite, Javascript Servicenow, LINUX, Unix, Python, InteliJ 
-- 👯 I’m looking to collaborate on JAVA,
-- 💬 Ask me about Functional Testing, Body, Mind, Soul, Universe, Food, Conciousness, 
+- 👯 I’m looking to collaborate on JAVA, Python Automation
+- 💬 Ask me about Functional Testing, Body, Mind, Soul, Universe, Food, Conciousness, Health, Self Development, MATRIX
 - 📫 How to reach me: suryakantgpt@gmail.com
 - 😄 
 - ⚡ Fun fact: ... Expert in hammering the code.
